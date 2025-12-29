@@ -1482,6 +1482,11 @@ body {
     color: var(--text-dark);
 }
 
+.accordion-body strong {
+    color: var(--primary-color);
+    font-weight: 700;
+}
+
 .accordion-body ul,
 .accordion-body ol {
     padding-left: 1.5rem;
